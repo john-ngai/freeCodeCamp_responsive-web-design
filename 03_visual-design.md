@@ -315,9 +315,7 @@ repeating-linear-gradient(
 );
 ```
 
-![Illustration of a repeating linear gradient](https://github.com/mrjohnming/freeCodeCamp_responsive-web-design/blob/main/docs/repeating-linear-gradient.png)
-
-<img src="./docs/repeating-linear-gradient.png" alt="Illustration of a repeating linear gradient" height="100"/>
+<img src="./docs/repeating-linear-gradient.png" alt="Illustration of a repeating linear gradient" height="300"/>
 
 * The gradient starts with the color `yellow` at `0px`, which blends into the second color `blue` at `40px` away from the start.
 * Since the next color stop is also at `40px`, the gradient immediately changes to the third color `green`, which itself blends into the fourth color value `red` as that is `80px` away from the beginning of the gradient.
